@@ -1,4 +1,103 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 01" tvg-logo="" group-title="XVIDEO",XVIDEO 01
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1188
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 02" tvg-logo="" group-title="XVIDEO",XVIDEO 02
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1189
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 03" tvg-logo="" group-title="XVIDEO",XVIDEO 03
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1190
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 04" tvg-logo="" group-title="XVIDEO",XVIDEO 04
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1191
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 05" tvg-logo="" group-title="XVIDEO",XVIDEO 05
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1192
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 06" tvg-logo="" group-title="XVIDEO",XVIDEO 06
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1193
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 07" tvg-logo="" group-title="XVIDEO",XVIDEO 07
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1194
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 08" tvg-logo="" group-title="XVIDEO",XVIDEO 08
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1195
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 09" tvg-logo="" group-title="XVIDEO",XVIDEO 09
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1196
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 10" tvg-logo="" group-title="XVIDEO",XVIDEO 10
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1197
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 11" tvg-logo="" group-title="XVIDEO",XVIDEO 11
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1198
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 12" tvg-logo="" group-title="XVIDEO",XVIDEO 12
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1199
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 13" tvg-logo="" group-title="XVIDEO",XVIDEO 13
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1200
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 14" tvg-logo="" group-title="XVIDEO",XVIDEO 14
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1201
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 15" tvg-logo="" group-title="XVIDEO",XVIDEO 15
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1202
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 16" tvg-logo="" group-title="XVIDEO",XVIDEO 16
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1203
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 17" tvg-logo="" group-title="XVIDEO",XVIDEO 17
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1204
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 19" tvg-logo="" group-title="XVIDEO",XVIDEO 19
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1206
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 20" tvg-logo="" group-title="XVIDEO",XVIDEO 20
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1207
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 21" tvg-logo="" group-title="XVIDEO",XVIDEO 21
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1208
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 22" tvg-logo="" group-title="XVIDEO",XVIDEO 22
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1209
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 23" tvg-logo="" group-title="XVIDEO",XVIDEO 23
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1210
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 24" tvg-logo="" group-title="XVIDEO",XVIDEO 24
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1211
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 25" tvg-logo="" group-title="XVIDEO",XVIDEO 25
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1212
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 26" tvg-logo="" group-title="XVIDEO",XVIDEO 26
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1213
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 27" tvg-logo="" group-title="XVIDEO",XVIDEO 27
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1214
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 28" tvg-logo="" group-title="XVIDEO",XVIDEO 28
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1215
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 29" tvg-logo="" group-title="XVIDEO",XVIDEO 29
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1216
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 30" tvg-logo="" group-title="XVIDEO",XVIDEO 30
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1217
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 31" tvg-logo="" group-title="XVIDEO",XVIDEO 31
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1218
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 32" tvg-logo="" group-title="XVIDEO",XVIDEO 32
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1219
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 33" tvg-logo="" group-title="XVIDEO",XVIDEO 33
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1220
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 34" tvg-logo="" group-title="XVIDEO",XVIDEO 34
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1221
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 35" tvg-logo="" group-title="XVIDEO",XVIDEO 35
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1222
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 36" tvg-logo="" group-title="XVIDEO",XVIDEO 36
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1223
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 37" tvg-logo="" group-title="XVIDEO",XVIDEO 37
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1224
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 38" tvg-logo="" group-title="XVIDEO",XVIDEO 38
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1225
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 39" tvg-logo="" group-title="XVIDEO",XVIDEO 39
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1226
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 40" tvg-logo="" group-title="XVIDEO",XVIDEO 40
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1227
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 41" tvg-logo="" group-title="XVIDEO",XVIDEO 41
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1228
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 42" tvg-logo="" group-title="XVIDEO",XVIDEO 42
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1229
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 43" tvg-logo="" group-title="XVIDEO",XVIDEO 43
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1230
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 44" tvg-logo="" group-title="XVIDEO",XVIDEO 44
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1231
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 45" tvg-logo="" group-title="XVIDEO",XVIDEO 45
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1232
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 46" tvg-logo="" group-title="XVIDEO",XVIDEO 46
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1233
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 47" tvg-logo="" group-title="XVIDEO",XVIDEO 47
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1234
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 48" tvg-logo="" group-title="XVIDEO",XVIDEO 48
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1235
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 49" tvg-logo="" group-title="XVIDEO",XVIDEO 49
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1236
+#EXTINF:-1 tvg-id="" tvg-name="XVIDEO 50" tvg-logo="" group-title="XVIDEO",XVIDEO 50
+http://main.xplus2-main.xyz:2082/Tourobox1-xueTWM6pXb/upM9ufZNF6/1237
+
 #EXTINF:-1 tvg-id="" tvg-name="US205:CBS 4 MIAMI WFOR-TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US205CBS_WKRG.png" group-title="USA CBS",US205:CBS 4 MIAMI WFOR-TV
 http://152.89.62.76:8880/3ca05163n16/76tgs8vsv/29985
 #EXTINF:-1 tvg-id="" tvg-name="BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED" tvg-logo="http://mu03.wanicelife.com:8880/images/BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED.jpg" group-title="XXX-West",BigButtsLikeItBig.20.06.20.Ella.Hughes.Shy.Redheads.Want.Anal.REMASTERED
